@@ -33,26 +33,26 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(20).pdf" style="text-decoration:none;">Big History: The Big Bang, Life on Earth, and the Rise of Humanity </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(21).pdf" style="text-decoration:none;">Bioinorganic Chemistry: A Short Course</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(22).pdf" style="text-decoration:none;">Lubricant Additives: Chemistry and Applications</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(23).pdf" style="text-decoration:none;">Encyclopedia of Chemistry </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(21).pdf" style="text-decoration:none;">The Cambridge History of Christianity, Volume 1: Origins to Constantine</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(22).pdf" style="text-decoration:none;">A History of Western Philosophy, and Its Connection with Political and Social Circumstances from the Earliest Times to the Present Day</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(23).pdf" style="text-decoration:none;">Encyclopedia of Ancient Egypt </a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(24).pdf" style="text-decoration:none;">Physical Chemistry: David W. Ball</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(24).pdf" style="text-decoration:none;">A History of Money: From Ancient Times to the Present Day</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(25).pdf" style="text-decoration:none;">Chemistry Workbook For Dummies</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(26).pdf" style="text-decoration:none;">Oxidation and Antioxidants in Organic Chemistry and Biology</a></b></li>
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(27).pdf" style="text-decoration:none;">Chemistry Experiments for Children</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(25).pdf" style="text-decoration:none;">Routledge History of World Philosophies</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(26).pdf" style="text-decoration:none;">The Cambridge History of Medieval Philosophy</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(27).pdf" style="text-decoration:none;">A Short History of China and Southeast Asia</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(28).pdf" style="text-decoration:none;">Essentials of Computational Chemistry: Theories and Models </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(28).pdf" style="text-decoration:none;">Icons of the Middle Ages: Rulers, Writers, Rebels, and Saints </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(29).pdf" style="text-decoration:none;">Computational Chemistry </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(29).pdf" style="text-decoration:none;">The History of Terrorism: From Antiquity to Al Qaeda </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(30).pdf" style="text-decoration:none;">Principles and Practice of Analytical Chemistry</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(30).pdf" style="text-decoration:none;">A Short History of the United States</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(31).pdf" style="text-decoration:none;">Solid State Chemistry: An Introduction</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(32).pdf" style="text-decoration:none;">The Chemistry Maths Book</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(31).pdf" style="text-decoration:none;">The Hammer and the Cross: A New History of the Vikings</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(32).pdf" style="text-decoration:none;">The Concise History of the Crusades</a></b></li> 
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(33).pdf" style="text-decoration:none;">An Introduction to Environmental Chemistry</a></b></li>                              
 
