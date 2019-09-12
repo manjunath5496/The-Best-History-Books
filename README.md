@@ -54,47 +54,33 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(31).pdf" style="text-decoration:none;">The Hammer and the Cross: A New History of the Vikings</a></b></li> 
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(32).pdf" style="text-decoration:none;">The Concise History of the Crusades</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(33).pdf" style="text-decoration:none;">An Introduction to Environmental Chemistry</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(33).pdf" style="text-decoration:none;">A Concise History of the Middle East</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(34).pdf" style="text-decoration:none;">Inorganic and Applied Chemistry</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(34).pdf" style="text-decoration:none;">Modern Indian History</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(35).pdf" style="text-decoration:none;">Modern inorganic chemistry</a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(36).pdf" style="text-decoration:none;">Green Chemistry and the Ten Commandments of Sustainability</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(35).pdf" style="text-decoration:none;">The Oxford History of the British Empire</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(36).pdf" style="text-decoration:none;">A Restatement of the History of Islam and Muslims</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(37).pdf" style="text-decoration:none;">Chemistry and Technology of Explosives</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(38).pdf" style="text-decoration:none;">Chemistry for the Utterly Confused</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(39).pdf" style="text-decoration:none;">Solving Problems: A Chemistry Handbook</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(40).pdf" style="text-decoration:none;">Organic Chemistry II For Dummies</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(41).pdf" style="text-decoration:none;">A Dictionary of Chemistry</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(42).pdf" style="text-decoration:none;">Essentials of Inorganic Chemistry - For Students of Pharmacy, Pharmaceutical Sciences and Medicinal Chemistry </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(37).pdf" style="text-decoration:none;">Religious Rivalries in the Early Roman Empire and the Rise of Christianity</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(38).pdf" style="text-decoration:none;">World History in Documents: A Comparative Reader</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(39).pdf" style="text-decoration:none;">A people's history of the world</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(40).pdf" style="text-decoration:none;">Islamic Economics: A Short History</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(41).pdf" style="text-decoration:none;">Islam: Religion, History, and Civilization </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(42).pdf" style="text-decoration:none;">Final Warning: A History of the New World Order </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(43).pdf" style="text-decoration:none;">Organic Chemistry of Explosives</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(44).pdf" style="text-decoration:none;">Peptide Chemistry and Drug Design </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(45).pdf" style="text-decoration:none;">Fundamentals of Medicinal Chemistry</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(43).pdf" style="text-decoration:none;">A History of India</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(44).pdf" style="text-decoration:none;">The Secret History of Freemasonry: Its Origins and Connection to the Knights Templar </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(45).pdf" style="text-decoration:none;">Imperium: The Philosophy of History and Politics</a></b></li>
                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(46).pdf" style="text-decoration:none;">Synthetic Inorganic Chemistry; A Course of Laboratory and Classroom Study for First Year College Students</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(46).pdf" style="text-decoration:none;">English Literature: Its History and Its Significance for the Life of the English Speaking World</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(47).pdf" style="text-decoration:none;">Laboratory Methods of Inorganic Chemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(47).pdf" style="text-decoration:none;">Islam: Faith, Practice and History </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(48).pdf" style="text-decoration:none;">The Organic Chemistry of Drug Synthesis </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(48).pdf" style="text-decoration:none;">Jews and Judaism in World History </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(49).pdf" style="text-decoration:none;">CliffsAP Chemistry</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(50).pdf" style="text-decoration:none;">Physical Chemistry in Brief </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(49).pdf" style="text-decoration:none;">A History of European Art</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(50).pdf" style="text-decoration:none;">A Brief History of the World </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(51).pdf" style="text-decoration:none;">Instant Notes: Analytical Chemistry </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(52).pdf" style="text-decoration:none;">Organic Chemistry – chemistry of aromatics </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(53).rar" style="text-decoration:none;">The Foundations of Chemistry</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(54).rar" style="text-decoration:none;">Physical Chemistry: Gilbert W. Castellan </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(55).rar" style="text-decoration:none;">Organic Chemistry  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(56).pdf" style="text-decoration:none;">Enzyme Kinetics: A Modern Approach</a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(57).pdf" style="text-decoration:none;">Chemical Kinetics and Reaction Dynamics  </a></b></li>
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(58).rar" style="text-decoration:none;">Comprehensive Chemical Kinetics  </a></b></li>
 
 </ul>
