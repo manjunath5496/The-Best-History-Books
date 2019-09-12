@@ -94,9 +94,16 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(57).pdf" style="text-decoration:none;">A Short History of Nearly Everything </a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(58).pdf" style="text-decoration:none;">A Brief History of Time</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(59).pdf" style="text-decoration:none;">A History of Mathematics: From Mesopotamia to Modernity</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(60).pdf" style="text-decoration:none;">World History For Dummies</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(61).pdf" style="text-decoration:none;">The Wealth of Ideas: A History of Economic Thought </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(62).pdf" style="text-decoration:none;">A History of Feminist Literary Criticism </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(63).pdf" style="text-decoration:none;">A Short History of Indonesia </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-History-Books/blob/master/ish(64).pdf" style="text-decoration:none;">A Critical History of Greek Philosophy </a></b></li>
 
 
 
