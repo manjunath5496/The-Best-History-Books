@@ -9,7 +9,7 @@
 </div>
 <div class="quotebox pullquote floatright">
 <div class="quotebox-quote left-aligned"><strong>Those who cannot remember the past are condemned to repeat it.</strong></div>
-<p><cite class="left-aligned">&mdash;<a title="George Santayana" href="https://en.wikipedia.org/wiki/George_Santayana">George Santayana</a></cite></p>
+<p><cite class="left-aligned"> &mdash; <a title="George Santayana" href="https://en.wikipedia.org/wiki/George_Santayana">George Santayana</a></cite></p>
 </div>
 </br>
 
