@@ -1,5 +1,17 @@
-
-
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="Herodotus_Massimo.jpg"><img class="thumbimage" src="Herodotus_Massimo.jpg" srcset="Herodotus_Massimo.jpg" alt="" width="240" height="299" data-file-width="2130" data-file-height="2650" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+<a title="Herodotus" href="https://en.wikipedia.org/wiki/Herodotus">Herodotus</a>&nbsp;(c. 484 BC &ndash; c. 425 BC), often considered the "father of history"</div>
+<div class="thumbcaption">&nbsp;</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<div class="quotebox pullquote floatright">
+<div class="quotebox-quote left-aligned"><strong>Those who cannot remember the past are condemned to repeat it.</strong></div>
+<p><cite class="left-aligned">&mdash;<a title="George Santayana" href="https://en.wikipedia.org/wiki/George_Santayana">George Santayana</a></cite></p>
+</div>
+</br>
 
 <p><strong>History</strong>&nbsp;(from&nbsp;<a title="Ancient Greek" href="https://en.wikipedia.org/wiki/Ancient_Greek">Greek</a>&nbsp;<span lang="el" title="Greek language text">ἱ&sigma;&tau;&omicron;&rho;ί&alpha;</span>,&nbsp;<em>historia</em>, meaning 'inquiry;&nbsp;<a title="Knowledge" href="https://en.wikipedia.org/wiki/Knowledge">knowledge</a>&nbsp;acquired by investigation')&nbsp;is the study of the past.&nbsp;Events occurring before the invention of writing systems are considered&nbsp;<a title="Prehistory" href="https://en.wikipedia.org/wiki/Prehistory">prehistory</a>. "History" is an&nbsp;<a class="mw-redirect" title="Umbrella term" href="https://en.wikipedia.org/wiki/Umbrella_term">umbrella term</a>&nbsp;that relates to past events as well as the memory, discovery, collection, organization, presentation, and interpretation of information about these events. Scholars who focus on history are called&nbsp;<a title="Historian" href="https://en.wikipedia.org/wiki/Historian">historians</a>. The historian's role is to place the past in context, using sources from moments and events, and filling in the gaps to the best of their ability.&nbsp;Written documents are not the only sources historians use to develop their understanding of the past. They also use material objects, oral accounts, ecological markers, art, and artifacts as&nbsp;<a title="Historical source" href="https://en.wikipedia.org/wiki/Historical_source">historical sources</a>.</p>
 <p>History also includes the&nbsp;<a class="mw-redirect" title="Discipline (academia)" href="https://en.wikipedia.org/wiki/Discipline_(academia)">academic discipline</a>&nbsp;which uses&nbsp;<a title="Narrative" href="https://en.wikipedia.org/wiki/Narrative">narrative</a>&nbsp;to describe, examine, question, and analyze a sequence of past events, investigate the patterns of cause and effect that are related to them.&nbsp;Historians seek to understand and represent the past through narratives. They often debate which narrative best explains an event, as well as the significance of different causes and effects. Historians also debate the&nbsp;<a title="Historiography" href="https://en.wikipedia.org/wiki/Historiography">nature of history</a>&nbsp;and its usefulness by discussing the study of the discipline as an end in itself and as a way of providing "perspective" on the problems of the present.</p>
